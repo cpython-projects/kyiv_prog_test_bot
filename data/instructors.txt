@@ -1,0 +1,3 @@
+Олег Тимчук; Python Developer
+Всеволод Євгієнко; FullStack Developer, Java Developer
+Олександр Цимбалюк; FullStack Developer, Java Developer
